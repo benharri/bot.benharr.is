@@ -1,2 +1,5 @@
 _site/
 .sass-cache/
+public_html/
+logs/
+
