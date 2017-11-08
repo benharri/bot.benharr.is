@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bot.benharr.is" # the base hostname & protocol for your site
 destination: public_html
 
-twitter_username: bharrismac
+twitter_username: nebsirrah
 github_username: benharri
 telegram_username: bharris
 
